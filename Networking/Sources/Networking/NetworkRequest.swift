@@ -5,7 +5,7 @@
 //  Created by Matteo Manferdini on 12/09/2019.
 //  Copyright © 2019 Matteo Manferdini. All rights reserved.
 //
-
+let baseUrl = "http://www.omdbapi.com/"
 import Foundation
 //import UIKit
 
